@@ -24,7 +24,7 @@
     "immutable": "^4.0.0-rc.12",
     "jquery": "^3.4.1",
     "prettyjson": "^1.2.1",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.25.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-draft-wysiwyg": "^1.13.2",
